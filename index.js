@@ -1,3 +1,2 @@
-function sayHappyHoliday(){
-  console.log ('Happy Holidays!')
-}
+function sayHappyHoliday() {
+  console.log ('Happy Holidays!') }
