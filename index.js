@@ -1,1 +1,1 @@
-function sayHappyHoliday()}
+function sayHappyHoliday(){}
